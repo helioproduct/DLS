@@ -1,3 +1,3 @@
 # DLS
-Deep Learning 2022 course repository
+Deep Learning 2022 course repository  
 dls.samcs.ru
